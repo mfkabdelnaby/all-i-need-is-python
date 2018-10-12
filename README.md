@@ -4,7 +4,7 @@ This repo contains all you need to know if you are new to Python. The language i
 
 ### List of lessons:
 
-**0. [Getting Started With Python]()
+**0. [Getting Started With Python]()**
 
 **1. [Strings and Variables](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%231_Strings_Variables.ipynb)**
 
