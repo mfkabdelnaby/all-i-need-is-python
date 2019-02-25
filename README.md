@@ -8,16 +8,22 @@ This repo contains all you need to know if you are new to Python. The language i
 
 **1. [Strings and Variables](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%231_Strings_Variables.ipynb)**
 
-**2. [Debugging](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%232_Debugging.ipynb)**
+**2. [Functions](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%232_Functions.ipynb)**
 
-**3. [Functions](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%233_Functions.ipynb)**
+**3. [If Statement](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%233_If.ipynb)**
 
-**4. [If Statement](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%234_If.ipynb)**
+**4. [Whil Loop](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%234_While.ipynb)**
 
-**5. [While Loop](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%235_While.ipynb)**
+**5. [Lists](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%235_Lists.ipynb)**
 
-**6. [Lists](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%236_Lists.ipynb)**
+**6. [For Loop](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%236_For.ipynb)**
 
-**7. [For Loop](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%237_For.ipynb)**
+**7. [Python Input/Output](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%237_InputOutput.ipynb)**
 
-I will add the rest of the lessons later. I am also and new learner in Python and Git so let me know if there are any comments. I just wanted to share a summary of what is important to know in Python in which I collected all this from multiple places. Hope it is useful!
+**8. [Dictionaries](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%238_Dictionaries.ipynb)**
+
+**9. [Excpetions](https://github.com/mustafarrag/all-i-need-is-python/blob/master/%239_Exceptions.ipynb)**
+
+Only `Python Input/Output is empty for now; it will be updated later. So basically if you know all this, you know all python fundamentals and you can move to the next step in using this language in the field of interest. For example, I will use Python for data science area.
+
+Best of luck and happy coding!
